@@ -52,44 +52,6 @@ At present, the best launch method of blockchain projects is airdrop, because of
 - 项目 logo (如有)，这 logo 会印制在文宣，会场海报或贴子上。
     ![蒲公英](https://bafybeiep3ezg7u7igdfxhcle7tlllamt6jxouwhnounmessqwbyohibrke.ipfs.w3s.link/%E8%92%B2%E5%85%AC%E8%8B%B1.png "蒲公英logo")
     
-
-- 项目的启始的commit，对于全新的项目可以是一个开源框架的clone，比如区块链clone自substrate-node-template, react
-  框架等，请给出说明。对于成熟项目可以是一个branch，要求在2023年5月12号之后生成，说明有哪些功能是已经有了的
-
-## 黑客松期间计划完成的事项
-- 1.完成平行链poa共识开发
-- 2.完成evm模块及相关智能合约开发（包括社区vetoken代币swap模块、自定义规则空投模块、用户活跃度模块等）
-- 2.完成前端基础ui界面的设计（包括空投项目进度展示模块，用户空投领取进度模块，社区代币质押模块）
-
-
-**区块链端**
-![后端](https://bafybeihdkzcccsmdvxitaxonp4ksqr7sbi2vpoozhoxtyu44q5hiquiznq.ipfs.w3s.link/%E5%90%8E%E7%AB%AF.png "后端合约模块")
-
-Dandelion 合约 && Substrate add Evm
-1. 6月12日 社区质押合约和 币持有量同比例发放空投功能合约。
-2. 6月14日 社区活跃度（签到token），每三日一个周期。
-3. 6月17日 Substrate add Evm ,并能部署合约。
-4. 6月23日 Substrate 修改成 web3用户钱包体系。
-5. 6月30日 Substrate 修改成 POA 共识。
-
-
-**客户端**
-
-- web 端
-    - [https://dandelion-1lf.pages.dev/] 项目介绍主页
-    - [https://dandelion-1lf.pages.dev/list] 空投列表及用户信息展示页
-    - [https://dandelion-1lf.pages.dev/list/airdrop/12] 空投项目参与页面
-
-## 黑客松期间所完成的事项 (2023年7月4日上午11:59初审前提交)
-
-- 1.完成了平行链poa共识开发
-- 2.完成evm模块及相关智能合约开发（包括社区vetoken代币swap模块、自定义规则空投模块、用户活跃度模块等）
-- 3.完成前端基础ui界面的设计（包括空投项目进度展示模块，用户空投领取进度模块，社区代币质押模块）
-- 4.代码结构： ![后端](https://bafybeihdkzcccsmdvxitaxonp4ksqr7sbi2vpoozhoxtyu44q5hiquiznq.ipfs.w3s.link/%E5%90%8E%E7%AB%AF.png "后端合约模块")
-- 5.[https://dandelion-1lf.pages.dev/] 项目Demo
-- 6.[https://drive.google.com/file/d/1U-Zd05p05DcCgv4MlujFw-aUXQzB-uHZ/view?usp=sharing] 项目介绍文档
-
-
 ## 队员信息
 
 | 姓名         | 角色         | GitHub 帐号  | 微信账号     |
