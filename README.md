@@ -53,11 +53,12 @@ Under the above rules, the witch attack changed from the technical threshold to 
     
 ## Team member information
 
-| 姓名         | 角色         | GitHub 帐号  | 微信账号     |
+| name         | role         | GitHub Account  | WeChat account     |
 | ----------- | ----------- | ----------- | ----------- |
-| 聊心       | 区块链后端  | qqliaoxin   | wxliaoxin   |
-| 心       | 区块链后端     |321llljjjfff123|wxid_s598vo46kd8b22|
-| Zzz     | 区块链后端   |Wydumn|lfmin369|
-| yan       | 前端        |joeyan|boyan_ssss|
-| 老张       | 前端        |radiancez|0xRadiance|
-| h2na        | 产品        |zhorsex|AiYoNanaY|
+| Zhorsex        | Product Manager        |zhorsex|AiYoNanaY|
+| 聊心       | Blockchain backend  | qqliaoxin   | wxliaoxin   |
+| 心       | Blockchain backend     |321llljjjfff123|wxid_s598vo46kd8b22|
+| Zzz     | Blockchain backend   |Wydumn|lfmin369|
+| yan       | Front        |joeyan|boyan_ssss|
+| 老张       | Front        |radiancez|0xRadiance|
+
